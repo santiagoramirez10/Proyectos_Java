@@ -1,0 +1,530 @@
+{
+    "status": "ok",
+    "totalResults": 34,
+    "articles": [
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Publimetro Colombia",
+            "title": "Exparticipante del 'Desafío The Box' reveló detalles del cáncer que padeció - Publimetro Colombia",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMingFodHRwczovL3d3dy5wdWJsaW1ldHJvLmNvL2VudHJldGVuaW1pZW50by8yMDIzLzA3LzIyL3NlbnRpYS1xdWUtYWxnby1uby1lc3RhYmEtYmllbi1leHBhcnRpY2lwYW50ZS1kZWwtZGVzYWZpby10aGUtYm94LXJldmVsby1kZXRhbGxlcy1kZWwtY2FuY2VyLXF1ZS1wYWRlY2lvL9IBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-07-23T00:20:46Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "El Tiempo",
+            "title": "Vía al Llano: Invías autoriza cierre total en el sector Naranjal - El Tiempo",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LmVsdGllbXBvLmNvbS9jb2xvbWJpYS9vdHJhcy1jaXVkYWRlcy92aWEtYWwtbGxhbm8taW52aWFzLWF1dG9yaXphLWNpZXJyZS10b3RhbC1lbi1lbC1zZWN0b3ItbmFyYW5qYWwtNzg4ODcx0gF7aHR0cHM6Ly93d3cuZWx0aWVtcG8uY29tL2FtcC9jb2xvbWJpYS9vdHJhcy1jaXVkYWRlcy92aWEtYWwtbGxhbm8taW52aWFzLWF1dG9yaXphLWNpZXJyZS10b3RhbC1lbi1lbC1zZWN0b3ItbmFyYW5qYWwtNzg4ODcx?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-07-22T21:58:24Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Publimetro Colombia",
+            "title": "Hip Hop al Parque 2023: cartel de artistas e ingresos, evento gratuito este fin de semana en Bogotá - Publimetro Colombia",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMilwFodHRwczovL3d3dy5wdWJsaW1ldHJvLmNvL2VudHJldGVuaW1pZW50by8yMDIzLzA3LzIyL2hpcC1ob3AtYWwtcGFycXVlLTIwMjMtY2FydGVsLWRlLWFydGlzdGFzLWUtaW5ncmVzb3MtZXZlbnRvLWdyYXR1aXRvLWVzdGUtZmluLWRlLXNlbWFuYS1lbi1ib2dvdGEv0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-07-22T21:34:05Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Revista Semana",
+            "title": "El superalimento para prevenir el cáncer, los problemas intestinales y las enfermedades cardiovasculares - Revista Semana",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMirgFodHRwczovL3d3dy5zZW1hbmEuY29tL3ZpZGEtbW9kZXJuYS9udXRyaWNpb24teS1kaWV0YS9hcnRpY3Vsby9lbC1zdXBlcmFsaW1lbnRvLXBhcmEtcHJldmVuaXItZWwtY2FuY2VyLWxvcy1wcm9ibGVtYXMtaW50ZXN0aW5hbGVzLXktbGFzLWVuZmVybWVkYWRlcy1jYXJkaW92YXNjdWxhcmVzLzIwMjMzNy_SAbIBaHR0cHM6Ly93d3cuc2VtYW5hLmNvbS9hbXAvdmlkYS1tb2Rlcm5hL251dHJpY2lvbi15LWRpZXRhL2FydGljdWxvL2VsLXN1cGVyYWxpbWVudG8tcGFyYS1wcmV2ZW5pci1lbC1jYW5jZXItbG9zLXByb2JsZW1hcy1pbnRlc3RpbmFsZXMteS1sYXMtZW5mZXJtZWRhZGVzLWNhcmRpb3Zhc2N1bGFyZXMvMjAyMzM3Lw?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-07-22T21:14:24Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Vanguardia",
+            "title": "Revuelo por cajero de Bancolombia que regaló plata a sus usuarios - Vanguardia",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vbS52YW5ndWFyZGlhLmNvbS9lbnRyZXRlbmltaWVudG8vdGVuZGVuY2lhcy9yZXZ1ZWxvLXBvci1jYWplcm8tZGUtYmFuY29sb21iaWEtcXVlLXJlZ2Fsby1wbGF0YS1hLXN1cy11c3Vhcmlvcy1HWTcwNTQ5MTDSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-07-22T20:55:43Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "El Tiempo",
+            "title": "¿Quiénes son los principales candidatos en las elecciones generales de España? - El Tiempo",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5lbHRpZW1wby5jb20vbXVuZG8vZXVyb3BhL2VsZWNjaW9uZXMtZW4tZXNwYW5hLXF1aWVuZXMtc29uLWxvcy1wcmluY2lwYWxlcy1jYW5kaWRhdG9zLWVuLWVsZWNjaW9uZXMtZ2VuZXJhbGVzLTc4ODg0OdIBhAFodHRwczovL3d3dy5lbHRpZW1wby5jb20vYW1wL211bmRvL2V1cm9wYS9lbGVjY2lvbmVzLWVuLWVzcGFuYS1xdWllbmVzLXNvbi1sb3MtcHJpbmNpcGFsZXMtY2FuZGlkYXRvcy1lbi1lbGVjY2lvbmVzLWdlbmVyYWxlcy03ODg4NDk?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-07-22T20:36:34Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Caracol Radio",
+            "title": "Fuerzas Militares descartan que pastor encontrado en selvas del Caquetá sea Wilson - Caracol Radio",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vY2FyYWNvbC5jb20uY28vMjAyMy8wNy8yMi9mdWVyemFzLW1pbGl0YXJlcy1kZXNjYXJ0YW4tcXVlLXBhc3Rvci1lbmNvbnRyYWRvLWVuLXNlbHZhcy1kZWwtY2FxdWV0YS1zZWEtd2lsc29uL9IBhAFodHRwczovL2NhcmFjb2wuY29tLmNvLzIwMjMvMDcvMjIvZnVlcnphcy1taWxpdGFyZXMtZGVzY2FydGFuLXF1ZS1wYXN0b3ItZW5jb250cmFkby1lbi1zZWx2YXMtZGVsLWNhcXVldGEtc2VhLXdpbHNvbi8_b3V0cHV0VHlwZT1hbXA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-07-22T20:29:57Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "El Colombiano",
+            "title": "Niños entre las víctimas: esto es lo que se sabe de los heridos que dejó el accidente de bus en Santander - El Colombiano",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LmVsY29sb21iaWFuby5jb20vY29sb21iaWEvdmljdGltYXMtZGVsLWFjY2lkZW50ZS1kZS1idXMtZW4tc2FudGFuZGVyLUJDMjE5ODMyNzfSAV9odHRwczovL3d3dy5lbGNvbG9tYmlhbm8uY29tL2FtcC9jb2xvbWJpYS92aWN0aW1hcy1kZWwtYWNjaWRlbnRlLWRlLWJ1cy1lbi1zYW50YW5kZXItQkMyMTk4MzI3Nw?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-07-22T20:26:09Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "El Tiempo",
+            "title": "Sismo en el departamento de Cundinamarca: ¿dónde y cuál fue su magnitud? - El Tiempo",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmVsdGllbXBvLmNvbS9jb2xvbWJpYS90ZW1ibG9yLWVuLWNvbG9tYmlhLXNpc21vLWRlLW1hZ25pdHVkLTMtMC1lbi1jdWN1bnViYS1jdW5kaW5hbWFyY2EtNzg4ODM00gFvaHR0cHM6Ly93d3cuZWx0aWVtcG8uY29tL2FtcC9jb2xvbWJpYS90ZW1ibG9yLWVuLWNvbG9tYmlhLXNpc21vLWRlLW1hZ25pdHVkLTMtMC1lbi1jdWN1bnViYS1jdW5kaW5hbWFyY2EtNzg4ODM0?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-07-22T20:03:14Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "El Tiempo",
+            "title": "Calor extremo: alerta roja en tres departamentos del Caribe ante aumento de temperatura - El Tiempo",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LmVsdGllbXBvLmNvbS9jb2xvbWJpYS9vdHJhcy1jaXVkYWRlcy90ZW1wZXJhdHVyYXMtZXh0cmVtYXMtYWxlcnRhLXJvamEtZW4tdHJlcy1kZXBhcnRhbWVudG9zLWRlbC1jYXJpYmUtNzg4ODMw0gF-aHR0cHM6Ly93d3cuZWx0aWVtcG8uY29tL2FtcC9jb2xvbWJpYS9vdHJhcy1jaXVkYWRlcy90ZW1wZXJhdHVyYXMtZXh0cmVtYXMtYWxlcnRhLXJvamEtZW4tdHJlcy1kZXBhcnRhbWVudG9zLWRlbC1jYXJpYmUtNzg4ODMw?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-07-22T19:51:27Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Terra Colombia",
+            "title": "Esta es la lista de celulares en los que dejará de funcionar WhatsApp a partir del 1 de agosto - Terra Colombia",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMikgFodHRwczovL3d3dy50ZXJyYS5jb20uY28vdGVuZGVuY2lhcy8yMDIzLzcvMjIvZXN0YS1lcy1sYS1saXN0YS1kZS1jZWx1bGFyZXMtZW4tbG9zLXF1ZS1kZWphcmEtZGUtZnVuY2lvbmFyLXdoYXRzYXBwLXBhcnRpci1kZWwtZGUtYWdvc3RvLTgwMjguaHRtbNIBkgFodHRwczovL3d3dy50ZXJyYS5jb20uY28vdGVuZGVuY2lhcy8yMDIzLzcvMjIvZXN0YS1lcy1sYS1saXN0YS1kZS1jZWx1bGFyZXMtZW4tbG9zLXF1ZS1kZWphcmEtZGUtZnVuY2lvbmFyLXdoYXRzYXBwLXBhcnRpci1kZWwtZGUtYWdvc3RvLTgwMjguaHRtbA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-07-22T19:25:39Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "El Colombiano",
+            "title": "¡Confirmado! Atlético Nacional dio a conocer la lesión de Dorlan Pabón, ¿llegará al juego ante Racing por Libertadores? - El Colombiano",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy5lbGNvbG9tYmlhbm8uY29tL2RlcG9ydGVzL2Z1dGJvbC9wYXJ0ZS1kZS1tZWRpY28tZGUtYXRsZXRpY28tbmFjaW9uYWwtbGVzaW9uLWRlLWRvcmxhbi1wYWJvbi15LWFuZHJlcy1yb21hbi1FQzIxOTgyOTc40gGGAWh0dHBzOi8vd3d3LmVsY29sb21iaWFuby5jb20vYW1wL2RlcG9ydGVzL2Z1dGJvbC9wYXJ0ZS1kZS1tZWRpY28tZGUtYXRsZXRpY28tbmFjaW9uYWwtbGVzaW9uLWRlLWRvcmxhbi1wYWJvbi15LWFuZHJlcy1yb21hbi1FQzIxOTgyOTc4?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-07-22T19:23:46Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Revista Semana",
+            "title": "Cinco vitaminas que son esenciales para prevenir el envejecimiento - Revista Semana",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LnNlbWFuYS5jb20vdmlkYS1tb2Rlcm5hL2FydGljdWxvL2NpbmNvLXZpdGFtaW5hcy1xdWUtc29uLWVzZW5jaWFsZXMtcGFyYS1wcmV2ZW5pci1lbC1lbnZlamVjaW1pZW50by8yMDIzMTIv0gF7aHR0cHM6Ly93d3cuc2VtYW5hLmNvbS9hbXAvdmlkYS1tb2Rlcm5hL2FydGljdWxvL2NpbmNvLXZpdGFtaW5hcy1xdWUtc29uLWVzZW5jaWFsZXMtcGFyYS1wcmV2ZW5pci1lbC1lbnZlamVjaW1pZW50by8yMDIzMTIv?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-07-22T19:22:09Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Diario Depor",
+            "title": "Sorteo Sinuano Día EN VIVO resultado de HOY sábado 22 de julio: ver número ganador - Diario Depor",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMixwFodHRwczovL2RlcG9yLmNvbS9jb2xvbWJpYS9sb2NhbC1jby9zb3J0ZW8tc2ludWFuby1kaWEteS1ub2NoZS1lbi12aXZvLWhveS1zYWJhZG8tMjItZGUtanVsaW8tdmlhLXlvdXR1YmUtcmVzdWx0YWRvcy15LW51bWVyby1nYW5hZG9yLWRlbC1wcmVtaW8tbWF5b3ItZ2FuYS1kaWFyaW8tbG90ZXJpYXMtY29sb21iaWEtdHJlbmRzLWNvLW5vdGljaWEv0gHWAWh0dHBzOi8vZGVwb3IuY29tL2NvbG9tYmlhL2xvY2FsLWNvL3NvcnRlby1zaW51YW5vLWRpYS15LW5vY2hlLWVuLXZpdm8taG95LXNhYmFkby0yMi1kZS1qdWxpby12aWEteW91dHViZS1yZXN1bHRhZG9zLXktbnVtZXJvLWdhbmFkb3ItZGVsLXByZW1pby1tYXlvci1nYW5hLWRpYXJpby1sb3Rlcmlhcy1jb2xvbWJpYS10cmVuZHMtY28tbm90aWNpYS8_b3V0cHV0VHlwZT1hbXA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-07-22T18:47:33Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Revista Semana",
+            "title": "Tadej Pogacar no se guardó nada y lanzó elogió a Jonas Vingegaard tras coronarse campeón virtual del Tour de Francia 2023 - Revista Semana",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiswFodHRwczovL3d3dy5zZW1hbmEuY29tL2RlcG9ydGVzL2NpY2xpc21vL2FydGljdWxvL3RhZGVqLXBvZ2FjYXItbm8tc2UtZ3VhcmRvLW5hZGEteS1sYW56by1lbG9naW8tYS1qb25hcy12aW5nZWdhYXJkLXRyYXMtY29yb25hcnNlLWNhbXBlb24tdmlydHVhbC1kZWwtdG91ci1kZS1mcmFuY2lhLTIwMjMvMjAyMzA0L9IBtwFodHRwczovL3d3dy5zZW1hbmEuY29tL2FtcC9kZXBvcnRlcy9jaWNsaXNtby9hcnRpY3Vsby90YWRlai1wb2dhY2FyLW5vLXNlLWd1YXJkby1uYWRhLXktbGFuem8tZWxvZ2lvLWEtam9uYXMtdmluZ2VnYWFyZC10cmFzLWNvcm9uYXJzZS1jYW1wZW9uLXZpcnR1YWwtZGVsLXRvdXItZGUtZnJhbmNpYS0yMDIzLzIwMjMwNC8?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-07-22T18:42:24Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "W Radio",
+            "title": "Continuamos comprometidos con el cese: ELN niega responsabilidad de carro bomba en Arauca - W Radio",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LndyYWRpby5jb20uY28vMjAyMy8wNy8yMi9jb250aW51YW1vcy1jb21wcm9tZXRpZG9zLWNvbi1lbC1jZXNlLWVsbi1uaWVnYS1yZXNwb25zYWJpbGlkYWQtZGUtY2Fycm8tYm9tYmEtZW4tYXJhdWNhL9IBjQFodHRwczovL3d3dy53cmFkaW8uY29tLmNvLzIwMjMvMDcvMjIvY29udGludWFtb3MtY29tcHJvbWV0aWRvcy1jb24tZWwtY2VzZS1lbG4tbmllZ2EtcmVzcG9uc2FiaWxpZGFkLWRlLWNhcnJvLWJvbWJhLWVuLWFyYXVjYS8_b3V0cHV0VHlwZT1hbXA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-07-22T18:19:55Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "infobae",
+            "title": "Ella es Jenny López, el nuevo amor de Jhonny Rivera - infobae",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LmluZm9iYWUuY29tL2NvbG9tYmlhLzIwMjMvMDcvMjIvZWxsYS1lcy1qZW5ueS1sb3Blei1lbC1udWV2by1hbW9yLWRlLWpob25ueS1yaXZlcmEv0gFzaHR0cHM6Ly93d3cuaW5mb2JhZS5jb20vY29sb21iaWEvMjAyMy8wNy8yMi9lbGxhLWVzLWplbm55LWxvcGV6LWVsLW51ZXZvLWFtb3ItZGUtamhvbm55LXJpdmVyYS8_b3V0cHV0VHlwZT1hbXAtdHlwZQ?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-07-22T18:06:16Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Revista Semana",
+            "title": "Superalimento “anticolesterol” para aumentar la función cognitiva, mejorar la memoria y prevenir el cáncer - Revista Semana",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMirgFodHRwczovL3d3dy5zZW1hbmEuY29tL3ZpZGEtbW9kZXJuYS9udXRyaWNpb24teS1kaWV0YS9hcnRpY3Vsby9zdXBlcmFsaW1lbnRvLWFudGljb2xlc3Rlcm9sLXBhcmEtYXVtZW50YXItbGEtZnVuY2lvbi1jb2duaXRpdmEtbWVqb3Jhci1sYS1tZW1vcmlhLXktcHJldmVuaXItZWwtY2FuY2VyLzIwMjMxNi_SAbIBaHR0cHM6Ly93d3cuc2VtYW5hLmNvbS9hbXAvdmlkYS1tb2Rlcm5hL251dHJpY2lvbi15LWRpZXRhL2FydGljdWxvL3N1cGVyYWxpbWVudG8tYW50aWNvbGVzdGVyb2wtcGFyYS1hdW1lbnRhci1sYS1mdW5jaW9uLWNvZ25pdGl2YS1tZWpvcmFyLWxhLW1lbW9yaWEteS1wcmV2ZW5pci1lbC1jYW5jZXIvMjAyMzE2Lw?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-07-22T18:03:29Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "El País Cali",
+            "title": "Los departamentos de Colombia donde se podrá ver mejor el eclipse solar de 2023, estas son las fechas - El País Cali",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMikQFodHRwczovL3d3dy5lbHBhaXMuY29tLmNvL2NvbG9tYmlhL2xvcy1kZXBhcnRhbWVudG9zLWRlLWNvbG9tYmlhLWRvbmRlLXNlLXBvZHJhLXZlci1tZWpvci1lbC1lY2xpcHNlLXNvbGFyLWRlLTIwMjMtZXN0YXMtc29uLWxhcy1mZWNoYXMtMjI1MS5odG1s0gGVAWh0dHBzOi8vd3d3LmVscGFpcy5jb20uY28vYW1wL2NvbG9tYmlhL2xvcy1kZXBhcnRhbWVudG9zLWRlLWNvbG9tYmlhLWRvbmRlLXNlLXBvZHJhLXZlci1tZWpvci1lbC1lY2xpcHNlLXNvbGFyLWRlLTIwMjMtZXN0YXMtc29uLWxhcy1mZWNoYXMtMjI1MS5odG1s?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-07-22T17:26:49Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "CNN en Español",
+            "title": "Triunfo y golazo de Messi en su debut con Inter Miami - CNN en Español",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vY25uZXNwYW5vbC5jbm4uY29tL3ZpZGVvL2xpb25lbC1tZXNzaS1kZWJ1dC10aXJvLWxpYnJlLWludGVyLW1pYW1pLWRlcG9ydGVzLWNubmUv0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-07-22T16:53:00Z",
+            "content": null
+        }
+    ],
+    "status": "ok",
+    "totalResults": 34,
+    "articles": [
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "gagadget.com",
+            "title": "Helio G99, cámara de 108 MP, 5.000 mA*h y pantalla AMOLED de 90 Hz: se desvelan las especificaciones del Realme 11 4G - gagadget.com",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMikAFodHRwczovL2dhZ2FkZ2V0LmNvbS9lcy8yODQ1NTUtaGVsaW8tZzk5LWNhbWFyYS1kZS0xMDgtbXAtNTAwMC1tYWgteS1wYW50YWxsYS1hbW9sZWQtZGUtOTAtaHotc2UtZGVzdmVsYW4tbGFzLWVzcGVjaWZpY2FjaW9uZXMtZGVsLXJlYWxtZS0xMS00Zy_SAZQBaHR0cHM6Ly9nYWdhZGdldC5jb20vZXMvMjg0NTU1LWhlbGlvLWc5OS1jYW1hcmEtZGUtMTA4LW1wLTUwMDAtbWFoLXktcGFudGFsbGEtYW1vbGVkLWRlLTkwLWh6LXNlLWRlc3ZlbGFuLWxhcy1lc3BlY2lmaWNhY2lvbmVzLWRlbC1yZWFsbWUtMTEtNGctYW1wLw?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-07-23T15:49:44Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Revista Semana",
+            "title": "🔴En vivo, elecciones en España: Alberto Núñez Feijóo se enfrenta a Pedro Sánchez, ¿ganará la derecha o la izquierda? Siga aquí el minuto a minuto - Revista Semana",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiuQFodHRwczovL3d3dy5zZW1hbmEuY29tL211bmRvL2FydGljdWxvL2VuLXZpdm8tZWxlY2Npb25lcy1lbi1lc3BhbmEtYWxiZXJ0by1udW5lei1mZWlqb28tc2UtZW5mcmVudGEtYS1wZWRyby1zYW5jaGV6LWdhbmFyYS1sYS1kZXJlY2hhLW8tbGEtaXpxdWllcmRhLXNpZ2EtYXF1aS1lbC1taW51dG8tYS1taW51dG8vMjAyMzMxL9IBvQFodHRwczovL3d3dy5zZW1hbmEuY29tL2FtcC9tdW5kby9hcnRpY3Vsby9lbi12aXZvLWVsZWNjaW9uZXMtZW4tZXNwYW5hLWFsYmVydG8tbnVuZXotZmVpam9vLXNlLWVuZnJlbnRhLWEtcGVkcm8tc2FuY2hlei1nYW5hcmEtbGEtZGVyZWNoYS1vLWxhLWl6cXVpZXJkYS1zaWdhLWFxdWktZWwtbWludXRvLWEtbWludXRvLzIwMjMzMS8?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-07-23T15:45:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "El Tiempo",
+            "title": "Gustavo Petro nombrará a Salvatore Mancuso como gestor de paz - El Tiempo",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LmVsdGllbXBvLmNvbS9wb2xpdGljYS9nb2JpZXJuby9ndXN0YXZvLXBldHJvLW5vbWJyYS1hbC1leHBhcmFtaWxpdGFyLXNhbHZhdG9yZS1tYW5jdXNvLWNvbW8tZ2VzdG9yLWRlLXBhei03ODg5NTnSAYABaHR0cHM6Ly93d3cuZWx0aWVtcG8uY29tL2FtcC9wb2xpdGljYS9nb2JpZXJuby9ndXN0YXZvLXBldHJvLW5vbWJyYS1hbC1leHBhcmFtaWxpdGFyLXNhbHZhdG9yZS1tYW5jdXNvLWNvbW8tZ2VzdG9yLWRlLXBhei03ODg5NTk?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-07-23T15:35:28Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Pluralidad Z",
+            "title": "Narcotraficantes están regalando dólares mientras quieren pesos colombianos - Pluralidad Z",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vcGx1cmFsaWRhZHouY29tL2Vjb25vbWlhL25hcmNvdHJhZmljYW50ZXMtZXN0YW4tcmVnYWxhbmRvLWRvbGFyZXMtbWllbnRyYXMtcXVpZXJlbi1wZXNvcy1jb2xvbWJpYW5vcy_SAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-07-23T15:07:21Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Revista Semana",
+            "title": "La función de Google para detectar una llamada spam y bloquearla al instante - Revista Semana",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3LnNlbWFuYS5jb20vdGVjbm9sb2dpYS9hcnRpY3Vsby9sYS1mdW5jaW9uLWRlLWdvb2dsZS1wYXJhLWRldGVjdGFyLXVuYS1sbGFtYWRhLXNwYW0teS1ibG9xdWVhcmxhLWFsLWluc3RhbnRlLzIwMjM1Ni_SAYMBaHR0cHM6Ly93d3cuc2VtYW5hLmNvbS9hbXAvdGVjbm9sb2dpYS9hcnRpY3Vsby9sYS1mdW5jaW9uLWRlLWdvb2dsZS1wYXJhLWRldGVjdGFyLXVuYS1sbGFtYWRhLXNwYW0teS1ibG9xdWVhcmxhLWFsLWluc3RhbnRlLzIwMjM1Ni8?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-07-23T14:19:30Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Publimetro Colombia",
+            "title": "Cayó proxeneta de 17 años que obligaba a otras menores a prostituirse en Bucaramanga - Publimetro Colombia",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy5wdWJsaW1ldHJvLmNvL25vdGljaWFzLzIwMjMvMDcvMjMvY2F5by1wcm94ZW5ldGEtZGUtMTctYW5vcy1xdWUtb2JsaWdhYmEtYS1vdHJhcy1tZW5vcmVzLWEtcHJvc3RpdHVpcnNlLWVuLWJ1Y2FyYW1hbmdhL9IBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-07-23T13:23:43Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "El Tiempo",
+            "title": "¡Estalla bomba en el Tour de Francia por culpa del líder, Jonas Vingegaard! - El Tiempo",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmVsdGllbXBvLmNvbS9kZXBvcnRlcy9jaWNsaXNtby9qb25hcy12aW5nZWdhYXJkLWlyYS1hLWxhLXZ1ZWx0YS1hLWVzcGFuYS0yMDIzLXRyYXMtZWwtdG91ci1kZS1mcmFuY2lhLTc4ODkzMtIBfGh0dHBzOi8vd3d3LmVsdGllbXBvLmNvbS9hbXAvZGVwb3J0ZXMvY2ljbGlzbW8vam9uYXMtdmluZ2VnYWFyZC1pcmEtYS1sYS12dWVsdGEtYS1lc3BhbmEtMjAyMy10cmFzLWVsLXRvdXItZGUtZnJhbmNpYS03ODg5MzI?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-07-23T13:20:23Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "EL HERALDO",
+            "title": "Homicidio de pareja en Soledad: entraron a la casa les dispararon - EL HERALDO",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmVsaGVyYWxkby5jby9qdWRpY2lhbC9ob21pY2lkaW8tZGUtcGFyZWphLWVuLXNvbGVkYWQtZW50cmFyb24tbGEtY2FzYS1sZXMtZGlzcGFyYXJvbi0xMDE3Mzkz0gFsaHR0cHM6Ly93d3cuZWxoZXJhbGRvLmNvL2p1ZGljaWFsL2hvbWljaWRpby1kZS1wYXJlamEtZW4tc29sZWRhZC1lbnRyYXJvbi1sYS1jYXNhLWxlcy1kaXNwYXJhcm9uLTEwMTczOTM_YW1w?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-07-23T12:46:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Revista Semana",
+            "title": "Colombia vs. Corea del Sur: Así llegan las ‘cafeteras’ a su debut en el Mundial Femenino - Revista Semana",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMihQFodHRwczovL3d3dy5zZW1hbmEuY29tL2RlcG9ydGVzL2FydGljdWxvL2NvbG9tYmlhLXZzLWNvcmVhLWRlbC1zdXItYXNpLWxsZWdhbi1sYXMtY2FmZXRlcmFzLWEtc3UtZGVidXQtZW4tZWwtbXVuZGlhbC1mZW1lbmluby8yMDIzMzYv0gGJAWh0dHBzOi8vd3d3LnNlbWFuYS5jb20vYW1wL2RlcG9ydGVzL2FydGljdWxvL2NvbG9tYmlhLXZzLWNvcmVhLWRlbC1zdXItYXNpLWxsZWdhbi1sYXMtY2FmZXRlcmFzLWEtc3UtZGVidXQtZW4tZWwtbXVuZGlhbC1mZW1lbmluby8yMDIzMzYv?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-07-23T12:39:06Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "BBC News Mundo",
+            "title": "Gran Colombia: el plan que buscaba convertir esa república en una monarquía (y cuál fue la posición de Simón Bolívar) - BBC News Mundo",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiL2h0dHBzOi8vd3d3LmJiYy5jb20vbXVuZG8vYXJ0aWNsZXMvY21seGsyMTduM2pv0gEzaHR0cHM6Ly93d3cuYmJjLmNvbS9tdW5kby9hcnRpY2xlcy9jbWx4azIxN24zam8uYW1w?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-07-23T12:20:27Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "El País Cali",
+            "title": "Resultado del Baloto este sábado 22 de julio de 2023: estos son los números ganadores del último sorteo - El País Cali",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMikwFodHRwczovL3d3dy5lbHBhaXMuY29tLmNvL2NvbG9tYmlhL3Jlc3VsdGFkby1kZWwtYmFsb3RvLWVzdGUtc2FiYWRvLTIyLWRlLWp1bGlvLWRlLTIwMjMtZXN0b3Mtc29uLWxvcy1udW1lcm9zLWdhbmFkb3Jlcy1kZWwtdWx0aW1vLXNvcnRlby0yMzQ5Lmh0bWzSAZcBaHR0cHM6Ly93d3cuZWxwYWlzLmNvbS5jby9hbXAvY29sb21iaWEvcmVzdWx0YWRvLWRlbC1iYWxvdG8tZXN0ZS1zYWJhZG8tMjItZGUtanVsaW8tZGUtMjAyMy1lc3Rvcy1zb24tbG9zLW51bWVyb3MtZ2FuYWRvcmVzLWRlbC11bHRpbW8tc29ydGVvLTIzNDkuaHRtbA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-07-23T12:11:35Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "El Espectador",
+            "title": "Farcpolítica: La batería de pruebas de la Corte Suprema contra Piedad Córdoba - El Espectador",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LmVsZXNwZWN0YWRvci5jb20vanVkaWNpYWwvZmFyY3BvbGl0aWNhLWxhLWJhdGVyaWEtZGUtcHJ1ZWJhcy1kZS1sYS1jb3J0ZS1zdXByZW1hLWNvbnRyYS1waWVkYWQtY29yZG9iYS_SAYIBaHR0cHM6Ly93d3cuZWxlc3BlY3RhZG9yLmNvbS9qdWRpY2lhbC9mYXJjcG9saXRpY2EtbGEtYmF0ZXJpYS1kZS1wcnVlYmFzLWRlLWxhLWNvcnRlLXN1cHJlbWEtY29udHJhLXBpZWRhZC1jb3Jkb2JhLz9vdXRwdXRUeXBlPWFtcA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-07-23T12:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "El País Cali",
+            "title": "Pareja que tuvo relaciones sexuales en un teleférico de Ecuador demandará por la difusión del video - El País Cali",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMijQFodHRwczovL3d3dy5lbHBhaXMuY29tLmNvL211bmRvL3BhcmVqYS1xdWUtdHV2by1yZWxhY2lvbmVzLXNleHVhbGVzLWVuLXVuLXRlbGVmZXJpY28tZGUtZWN1YWRvci1kZW1hbmRhcmEtcG9yLWxhLWRpZnVzaW9uLWRlbC12aWRlby0yMzQ1Lmh0bWzSAZEBaHR0cHM6Ly93d3cuZWxwYWlzLmNvbS5jby9hbXAvbXVuZG8vcGFyZWphLXF1ZS10dXZvLXJlbGFjaW9uZXMtc2V4dWFsZXMtZW4tdW4tdGVsZWZlcmljby1kZS1lY3VhZG9yLWRlbWFuZGFyYS1wb3ItbGEtZGlmdXNpb24tZGVsLXZpZGVvLTIzNDUuaHRtbA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-07-23T11:57:05Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Pulzo.com",
+            "title": "Así es la modalidad de estafa que está de moda en centros comerciales; víctima la cuenta - Pulzo.com",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LnB1bHpvLmNvbS9uYWNpb24vZXN0YWZhcy1jZW50cm9zLWNvbWVyY2lhbGVzLWJvZ290YS12aWN0aW1hLWNvbnRvLXN1LXRlc3RpbW9uaW8tUFAyOTE4NjAx0gFpaHR0cHM6Ly93d3cucHVsem8uY29tL2FtcC9uYWNpb24vZXN0YWZhcy1jZW50cm9zLWNvbWVyY2lhbGVzLWJvZ290YS12aWN0aW1hLWNvbnRvLXN1LXRlc3RpbW9uaW8tUFAyOTE4NjAx?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-07-23T11:57:01Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Pulzo.com",
+            "title": "Ísimo sigue en búsqueda de trabajadores y abre vacantes en varias ciudades de Colombia - Pulzo.com",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LnB1bHpvLmNvbS9lY29ub21pYS9pc2ltby1uZWdvY2lvLWNoYXItb2ZyZWNlLWVtcGxlby1jb2xvbWJpYS1wYWdhLWJ1ZW5vcy1zYWxhcmlvcy1QUDI5MTYxOTLSAWtodHRwczovL3d3dy5wdWx6by5jb20vYW1wL2Vjb25vbWlhL2lzaW1vLW5lZ29jaW8tY2hhci1vZnJlY2UtZW1wbGVvLWNvbG9tYmlhLXBhZ2EtYnVlbm9zLXNhbGFyaW9zLVBQMjkxNjE5Mg?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-07-23T11:50:29Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Gol Caracol",
+            "title": "Vea el gol de Stefanie van der Gragt hoy, Países Bajos vs Portugal en el Mundial Femenino - Gol Caracol",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMisgFodHRwczovL2dvbC5jYXJhY29sdHYuY29tL2Z1dGJvbC1pbnRlcm5hY2lvbmFsL2NvcGEtbXVuZGlhbC1mZW1lbmluYS1kZS1sYS1maWZhLTIwMjMvdmVhLWVsLWdvbC1kZS1zdGVmYW5pZS12YW4tZGVyLWdyYWd0LWhveS1wYWlzZXMtYmFqb3MtdnMtcG9ydHVnYWwtZW4tZWwtbXVuZGlhbC1mZW1lbmluby1zbzM10gG8AWh0dHBzOi8vZ29sLmNhcmFjb2x0di5jb20vZnV0Ym9sLWludGVybmFjaW9uYWwvY29wYS1tdW5kaWFsLWZlbWVuaW5hLWRlLWxhLWZpZmEtMjAyMy92ZWEtZWwtZ29sLWRlLXN0ZWZhbmllLXZhbi1kZXItZ3JhZ3QtaG95LXBhaXNlcy1iYWpvcy12cy1wb3J0dWdhbC1lbi1lbC1tdW5kaWFsLWZlbWVuaW5vLXNvMzU_X2FtcD10cnVl?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-07-23T08:08:35Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "La República",
+            "title": "Colombia es el quinto país con las carreteras más peligrosas en el mundo - La República",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LmxhcmVwdWJsaWNhLmNvL29jaW8vY29sb21iaWEtZWwtcXVpbnRvLXBhaXMtY29uLWxhcy1jYXJyZXRhcy1tYXMtcGVsaWdyb3Nhcy0zNjYzNzM00gFfaHR0cHM6Ly9hbXAubGFyZXB1YmxpY2EuY28vb2Npby9jb2xvbWJpYS1lbC1xdWludG8tcGFpcy1jb24tbGFzLWNhcnJldGFzLW1hcy1wZWxpZ3Jvc2FzLTM2NjM3MzQ?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-07-23T05:03:01Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "El Universal",
+            "title": "Hay agua de la Antártida frente Cartagena: conoce cómo llega hasta aquí - El Universal",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vbS5lbHVuaXZlcnNhbC5jb20uY28vY2FydGFnZW5hL2hheS1hZ3VhLWRlLWxhLWFudGFydGlkYS1mcmVudGUtY2FydGFnZW5hLWNvbm9jZS1jb21vLWxsZWdhLWhhc3RhLWFxdWktSEY4Njc2Njg30gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-07-23T05:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "EL HERALDO",
+            "title": "Giovanny Rubiano, director del Instituto Nacional de Salud, habla sobre covid, dengue y el actual panorama epidemiológico de Colombia - EL HERALDO",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LmVsaGVyYWxkby5jby9hdGxhbnRpY28vZ2lvdmFubnktcnViaWFuby1kaXJlY3Rvci1kZWwtaW5zdGl0dXRvLW5hY2lvbmFsLWRlLXNhbHVkLWhhYmxhLXNvYnJlLWNvdmlkLWRlbmd1ZS15LWVs0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-07-23T05:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "El Tiempo",
+            "title": "Iván Name: 'Le ofreceré a Petro todas las garantías para sus reformas sociales' - El Tiempo",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LmVsdGllbXBvLmNvbS9wb2xpdGljYS9jb25ncmVzby9sb3MtbWVuc2FqZXMtaXZhbi1uYW1lLXByZXNpZGVudGUtZGVsLWNvbmdyZXNvLWFsLXByZXNpZGVudGUtZ3VzdGF2by1wZXRyby03ODg4ODPSAYABaHR0cHM6Ly93d3cuZWx0aWVtcG8uY29tL2FtcC9wb2xpdGljYS9jb25ncmVzby9sb3MtbWVuc2FqZXMtaXZhbi1uYW1lLXByZXNpZGVudGUtZGVsLWNvbmdyZXNvLWFsLXByZXNpZGVudGUtZ3VzdGF2by1wZXRyby03ODg4ODM?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-07-23T03:45:29Z",
+            "content": null
+        }
+    ]
+}

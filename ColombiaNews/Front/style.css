@@ -1,0 +1,39 @@
+h1{
+    text-align: center;
+}
+
+.container{
+    max-width: 720px;
+    display: block;
+    margin: auto;
+}
+
+
+
+
+
+
+
+
+
+ul {
+    list-style: none;
+    padding: 0;
+  }
+
+  li {
+    margin-bottom: 20px;
+  }
+
+  p {
+    margin: 0;
+  }
+
+  a {
+    max-width: 100%;
+    display: block;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    word-wrap: break-word;
+  }
